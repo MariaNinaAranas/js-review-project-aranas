@@ -1,1 +1,1 @@
-console.log("Starting my JS Review!");
+console.log("JavaScript Review Project - Initialized");
